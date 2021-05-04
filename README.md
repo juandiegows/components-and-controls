@@ -21,7 +21,6 @@ Debería salirte esto
 
 ![image](https://user-images.githubusercontent.com/65135568/116959929-5291da80-ac9f-11eb-9842-8494e2af1d7a.png)
 
-
 ## 1- EllipseComponent
 
 Redondea las esquina del formulario o cualquier control que se le asigne en su propiedad TargetControl
