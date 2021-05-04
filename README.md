@@ -1,2 +1,3 @@
-# components-and-controls-with-rounded-corners
-With this code it will be possible for your forms and controls to have rounded corners in C#.
+# Componentes y Controles
+
+Con este código será posible que sus formularios y controles tengan esquinas redondeadas en C #.
