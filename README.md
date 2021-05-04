@@ -9,4 +9,4 @@ Controles se agrega al formulario y son parte visible de diseño mientras que lo
 
 ## 1- EllipseComponent
 
-Este elemento de la super poderes al elemento
+redondea las esquina del formulario o cualquier control que se le asigne en su propiedad TargeControl, pero en cualquier control diferente al Form, se debe ....
