@@ -27,4 +27,4 @@ Redondea las esquina del formulario o cualquier control que se le asigne en su p
 
 ![image](https://user-images.githubusercontent.com/65135568/116960183-f11e3b80-ac9f-11eb-90e1-812ea1274470.png)
 
-pero en cualquier control diferente al Form, se debe
+Pero en cualquier control diferente al **Form**, se debe definir los bordes del control enlazadas al contenedor, es decir que la propiedad **Dock** debe ser diferente a **none**
