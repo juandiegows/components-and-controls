@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.elipseComponentFormExample = new View.Components.ElipseComponent();
+            this.moveFormCompomenteFormExample = new View.Components.MoveFormCompomente();
             this.SuspendLayout();
             // 
             // elipseComponentFormExample
@@ -36,10 +37,15 @@
             this.elipseComponentFormExample.CornerRadius = 40;
             this.elipseComponentFormExample.TargetControl = this;
             // 
+            // moveFormCompomenteFormExample
+            // 
+            this.moveFormCompomenteFormExample.TargetControl = this;
+            // 
             // FormExample
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(221)))), ((int)(((byte)(125)))), ((int)(((byte)(12)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormExample";
@@ -51,6 +57,7 @@
         #endregion
 
         private Components.ElipseComponent elipseComponentFormExample;
+        private Components.MoveFormCompomente moveFormCompomenteFormExample;
     }
 }
 

@@ -49,6 +49,9 @@
     <Compile Include="Components\ElipseComponent.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Components\MoveFormCompomente.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="FormExample.cs">
       <SubType>Form</SubType>
     </Compile>
