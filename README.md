@@ -5,7 +5,7 @@ que un control de mueva dentro de otro, todo eso lo puedes hacer en C #.
 
 ### Diferencia entre componentes y controles
 
-Controles se agrega al formulario y son parte visible de diseño mientras que los componentes estan oculta del diseño pero le da súper poderes a los controles. me gusta exagera con decir súper poderes pero si le da otras atributos al control o modifican el control.
+Los controles se agrega al formulario y son parte visible de diseño mientras que los componentes estan oculta del diseño pero le da súper poderes a los controles. me gusta exagera con decir súper poderes pero si le da otras atributos al control o modifican el control.
 
 ## ¿Cómo usarlo?
 
