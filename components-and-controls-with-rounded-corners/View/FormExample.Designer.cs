@@ -28,13 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.elipseComponent1 = new View.Components.ElipseComponent();
             this.SuspendLayout();
+            // 
+            // elipseComponent1
+            // 
+            this.elipseComponent1.CornerRadius = 40;
+            this.elipseComponent1.TargetControl = this;
             // 
             // FormExample
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormExample";
             this.Text = "Form Example";
             this.ResumeLayout(false);
@@ -42,6 +49,8 @@
         }
 
         #endregion
+
+        private Components.ElipseComponent elipseComponent1;
     }
 }
 
