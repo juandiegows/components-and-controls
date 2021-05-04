@@ -1,6 +1,7 @@
 # Componentes y Controles
 
-Con este código será posible que sus formularios y controles tengan esquinas redondeadas en C #.
+Con este código será posible que sus formularios y controles tengan esquinas redondeadas,Que se puede mover, ya se porque le has quitado el border al formulario o porque quiere
+que un control de mueva dentro de otro, todo eso lo puedes hacer en C #.
 
 ### Diferencia entre componente y controles
 
