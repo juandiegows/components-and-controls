@@ -28,13 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.elipseComponent1 = new View.Components.ElipseComponent();
+            this.elipseComponentFormExample = new View.Components.ElipseComponent();
             this.SuspendLayout();
             // 
-            // elipseComponent1
+            // elipseComponentFormExample
             // 
-            this.elipseComponent1.CornerRadius = 40;
-            this.elipseComponent1.TargetControl = this;
+            this.elipseComponentFormExample.CornerRadius = 40;
+            this.elipseComponentFormExample.TargetControl = this;
             // 
             // FormExample
             // 
@@ -50,7 +50,7 @@
 
         #endregion
 
-        private Components.ElipseComponent elipseComponent1;
+        private Components.ElipseComponent elipseComponentFormExample;
     }
 }
 
