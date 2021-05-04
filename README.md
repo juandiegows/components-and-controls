@@ -24,4 +24,8 @@ Debería salirte esto
 
 ## 1- EllipseComponent
 
-redondea las esquina del formulario o cualquier control que se le asigne en su propiedad TargeControl, pero en cualquier control diferente al Form, se debe ....
+Redondea las esquina del formulario o cualquier control que se le asigne en su propiedad TargetControl
+
+![image](https://user-images.githubusercontent.com/65135568/116960183-f11e3b80-ac9f-11eb-90e1-812ea1274470.png)
+
+pero en cualquier control diferente al Form, se debe
