@@ -49,7 +49,10 @@
     <Compile Include="Components\ElipseComponent.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Components\MoveFormCompomente.cs">
+    <Compile Include="Components\MoveCompomente.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ElipseControl.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="FormExample.cs">
@@ -85,8 +88,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controls\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
