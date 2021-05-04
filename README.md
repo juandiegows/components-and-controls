@@ -7,7 +7,7 @@ que un control de mueva dentro de otro, todo eso lo puedes hacer en C #.
 
 Los controles se agregan al formulario y son parte visible de diseño mientras que los componentes están ocultos del diseño, pero les da súper poderes a los controles. me gusta exagera con decir súper poderes, pero si le da otros atributos al control o modifican el control.
 
-## ¿Cómo usarlo?
+## ¿Cómo usar el proyecto?
 
 Al clonar el proyecto te va a salir esto.
 
