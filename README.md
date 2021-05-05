@@ -40,7 +40,8 @@ la propiedad de CorneRadio indica que tal curvo serán las esquinas
 
 Este es un control con esquina redondeados, solo lo arrastra y puede ver cómo quedaría en el diseño
 
-![image](https://user-images.githubusercontent.com/65135568/117188566-cbc62600-ada2-11eb-9694-16c0bccd0e24.png)
+
+![image](https://user-images.githubusercontent.com/65135568/117188566-cbc62600-ada2-11eb-9694-16c0bccd0e24.png)![image](https://user-images.githubusercontent.com/65135568/117191351-139a7c80-ada6-11eb-99e9-1a96846c75fe.png)
 
 Puedes hacer el control herede de **Panel** para que tengo las funciones de un panel.
 
