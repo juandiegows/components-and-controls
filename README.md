@@ -31,6 +31,8 @@ Pero en cualquier control diferente al **Form**, se debe definir los bordes del 
 
 ![imagen](https://user-images.githubusercontent.com/65135568/117188152-59554600-ada2-11eb-92ee-7e9f0308fef9.png)
 
+Puedes hacer el control herede de **Panel** para que tengo las funciones de un panel.
+
 
 
 ## 1- EllipseControl
