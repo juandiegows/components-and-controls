@@ -33,7 +33,7 @@ Pero en cualquier control diferente al **Form**, se debe definir los bordes del 
 
 ![imagen](https://user-images.githubusercontent.com/65135568/117188152-59554600-ada2-11eb-92ee-7e9f0308fef9.png)
 
-la propiedad de CorneRadio indica que tal curvo serán las esquinas
+la propiedad de CornerRadius indica que tal curvo serán las esquinas
 
 
 ## 2- EllipseControl
