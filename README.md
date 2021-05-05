@@ -19,7 +19,7 @@ No te asustes solo debes de compilar la solución y listo.
 
 Debería salirte esto 
 
-![image](https://user-images.githubusercontent.com/65135568/116959929-5291da80-ac9f-11eb-9842-8494e2af1d7a.png)
+![image](https://user-images.githubusercontent.com/65135568/117187409-7d645780-ada1-11eb-9973-f693cc22b89a.png)
 
 ## 1- EllipseComponent
 
@@ -28,3 +28,8 @@ Redondea las esquina del formulario o cualquier control que se le asigne en su p
 ![image](https://user-images.githubusercontent.com/65135568/116960183-f11e3b80-ac9f-11eb-90e1-812ea1274470.png)
 
 Pero en cualquier control diferente al **Form**, se debe definir los bordes del control enlazadas al contenedor, es decir que la propiedad **Dock** debe ser diferente a **none** para que tome los bordes, sin embargo puedes hacer uso del control **EllipseControl** para crear un panel con esquinas redondeadas.
+
+
+## 1- EllipseControl
+
+Este es un control con esquina redondeados, solo lo arrastra y puede ver cómo quedaría en el diseño
