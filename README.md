@@ -46,3 +46,6 @@ Este es un control con esquina redondeados, solo lo arrastra y puede ver cómo q
 Puedes hacer el control herede de **Panel** para que tengo las funciones de un panel.
 
 
+### CreateRoundRectRgn
+
+![Desktop - 1](https://user-images.githubusercontent.com/65135568/117196696-6aa35000-adac-11eb-9747-1d71aac0bedf.png)
