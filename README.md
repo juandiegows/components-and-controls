@@ -46,3 +46,13 @@ Este es un control con esquina redondeados, solo lo arrastra y puede ver cómo q
 Puedes hacer el control herede de **Panel** para que tengo las funciones de un panel.
 
 
+### CreateRoundRectRgn
+
+![Desktop nueva](https://user-images.githubusercontent.com/65135568/117217076-74d24800-adc6-11eb-95bb-54115f687926.png)
+
+
+## 3- MoveComponent
+
+Este componente le da el poder al cualquier control que poderse mover cuando el mouse esta encima y sostenido con un clic derecho, si el control esta dentro de un contenedor
+entonces este se puede mover dentro de ese contenedor.
+
