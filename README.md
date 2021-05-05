@@ -37,7 +37,7 @@ Puedes hacer el control herede de **Panel** para que tengo las funciones de un p
 
 
 
-## 1- EllipseControl
+## 2- EllipseControl
 
 Este es un control con esquina redondeados, solo lo arrastra y puede ver cómo quedaría en el diseño
 
