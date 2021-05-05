@@ -15,7 +15,7 @@ Al clonar el proyecto te va a salir esto.
 
 No te asustes solo debes de compilar la solución y listo.
 
-![image](https://user-images.githubusercontent.com/65135568/116959874-2d04d100-ac9f-11eb-8540-fa748c5727cb.png)
+![image](https://user-images.githubusercontent.com/65135568/117188309-8a357b00-ada2-11eb-85fd-4bf625da414c.png)
 
 Debería salirte esto 
 
