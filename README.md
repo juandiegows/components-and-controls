@@ -48,4 +48,4 @@ Puedes hacer el control herede de **Panel** para que tengo las funciones de un p
 
 ### CreateRoundRectRgn
 
-![Desktop - 1](https://user-images.githubusercontent.com/65135568/117196696-6aa35000-adac-11eb-9747-1d71aac0bedf.png)
+![Desktop nueva](https://user-images.githubusercontent.com/65135568/117217076-74d24800-adc6-11eb-95bb-54115f687926.png)
