@@ -29,7 +29,7 @@ Redondea las esquina del formulario o cualquier control que se le asigne en su p
 
 ![image](https://user-images.githubusercontent.com/65135568/116960183-f11e3b80-ac9f-11eb-90e1-812ea1274470.png)
 
-Pero en cualquier control diferente al **Form**, se debe definir los bordes del control enlazadas al contenedor, es decir que la propiedad **Dock** debe ser diferente a **none** para que tome los bordes, sin embargo puedes hacer uso del control **EllipseControl** para crear un panel con esquinas redondeadas.
+Pero en cualquier control diferente al **Form**, se debe definir los bordes del control enlazadas al contenedor, es decir que la propiedad **Dock** debe ser diferente a **none** para que tome los bordes, sin embargo puedes hacer uso del control [**EllipseControl**](https://github.com/JuanDiegogit/components-and-controls/blob/main/README.md#2--ellipsecontrol) para crear un panel con esquinas redondeadas.
 
 ![imagen](https://user-images.githubusercontent.com/65135568/117188152-59554600-ada2-11eb-92ee-7e9f0308fef9.png)
 
