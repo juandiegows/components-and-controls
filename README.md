@@ -53,6 +53,6 @@ Puedes hacer el control herede de **Panel** para que tengo las funciones de un p
 
 ## 3- MoveComponent
 
-Este component le da el poder al cualquier control que poderse mover cuando el mouse esta encima y sostenido con un clic derecho, si el control esta dentro de un contenedor
+Este componente le da el poder al cualquier control que poderse mover cuando el mouse esta encima y sostenido con un clic derecho, si el control esta dentro de un contenedor
 entonces este se puede mover dentro de ese contenedor.
 
