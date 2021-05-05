@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormExample));
             this.lblText = new System.Windows.Forms.Label();
             this.lblDescription = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -122,6 +123,7 @@
             this.Controls.Add(this.elipseControl1);
             this.Controls.Add(this.lblText);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormExample";
             this.Text = "Form Example";
             this.ResumeLayout(false);
