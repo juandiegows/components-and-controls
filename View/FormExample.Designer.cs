@@ -35,9 +35,9 @@
             this.elipseControl2 = new View.Components.ElipseControl();
             this.elipseControl1 = new View.Components.ElipseControl();
             this.elipseComponentFormExample = new View.Components.ElipseComponent();
-            this.moveCompomenteFormExample = new View.Components.MoveCompomente();
-            this.moveCompomente1 = new View.Components.MoveCompomente();
-            this.moveCompomente2 = new View.Components.MoveCompomente();
+            this.moveCompomenteFormExample = new View.Components.MoveComponent();
+            this.moveCompomente1 = new View.Components.MoveComponent();
+            this.moveCompomente2 = new View.Components.MoveComponent();
             this.SuspendLayout();
             // 
             // lblText
@@ -88,7 +88,7 @@
             // 
             this.elipseControl1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.elipseControl1.CornerRadius = 50;
-            this.elipseControl1.Location = new System.Drawing.Point(295, 166);
+            this.elipseControl1.Location = new System.Drawing.Point(308, 174);
             this.elipseControl1.Name = "elipseControl1";
             this.elipseControl1.Size = new System.Drawing.Size(140, 92);
             this.elipseControl1.TabIndex = 1;
@@ -134,12 +134,12 @@
         #endregion
 
         private Components.ElipseComponent elipseComponentFormExample;
-        private Components.MoveCompomente moveCompomenteFormExample;
+        private Components.MoveComponent moveCompomenteFormExample;
         private System.Windows.Forms.Label lblText;
         private Components.ElipseControl elipseControl1;
         private Components.ElipseControl elipseControl2;
-        private Components.MoveCompomente moveCompomente1;
-        private Components.MoveCompomente moveCompomente2;
+        private Components.MoveComponent moveCompomente1;
+        private Components.MoveComponent moveCompomente2;
         private System.Windows.Forms.Label lblDescription;
         private System.Windows.Forms.Label label3;
     }

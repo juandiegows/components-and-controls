@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace View.Components
 {
-    class MoveCompomente : Component
+    class MoveComponent : Component
     {
 
         public const int WM_NCLBUTTONDOWN = 0xA1;

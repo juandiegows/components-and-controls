@@ -49,7 +49,7 @@
     <Compile Include="Components\ElipseComponent.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Components\MoveCompomente.cs">
+    <Compile Include="Components\MoveComponent.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Controls\ElipseControl.cs">
