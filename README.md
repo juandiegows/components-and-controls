@@ -33,8 +33,7 @@ Pero en cualquier control diferente al **Form**, se debe definir los bordes del 
 
 ![imagen](https://user-images.githubusercontent.com/65135568/117188152-59554600-ada2-11eb-92ee-7e9f0308fef9.png)
 
-Puedes hacer el control herede de **Panel** para que tengo las funciones de un panel.
-
+la propiedad de CorneRadio indica que tal curvo serán las esquinas
 
 
 ## 2- EllipseControl
@@ -42,4 +41,7 @@ Puedes hacer el control herede de **Panel** para que tengo las funciones de un p
 Este es un control con esquina redondeados, solo lo arrastra y puede ver cómo quedaría en el diseño
 
 ![image](https://user-images.githubusercontent.com/65135568/117188566-cbc62600-ada2-11eb-9694-16c0bccd0e24.png)
+
+Puedes hacer el control herede de **Panel** para que tengo las funciones de un panel.
+
 
