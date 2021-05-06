@@ -38,14 +38,23 @@ namespace View.Components
             {
                 _control = value;
 
-                _control.SizeChanged += (sender, eventArgs) => {
 
-                    IntPtr handle = CreateRoundRectRgn(0, 0, _control.Width, _control.Height, _CornerRadius, _CornerRadius);
-                    _control.Region = Region.FromHrgn(handle);
-                    DeleteObject(handle);
+                _control.SizeChanged += (sender, eventArgs) =>
+                {
+                    CreateRoundRect();
                 };
-
             }
+        }
+
+        private void CreateRoundRect()
+        {
+            if (_control != null)
+            {
+                IntPtr handle = CreateRoundRectRgn(0, 0, _control.Width, _control.Height, _CornerRadius, _CornerRadius);
+                _control.Region = Region.FromHrgn(handle);
+                DeleteObject(handle);
+            }
+            
         }
 
         public int CornerRadius
@@ -54,12 +63,7 @@ namespace View.Components
             set
             {
                 _CornerRadius = value;
-                if (_control != null)
-                {
-                    IntPtr handle = CreateRoundRectRgn(0, 0, _control.Width, _control.Height, _CornerRadius, _CornerRadius);
-                    _control.Region = Region.FromHrgn(handle);
-                    DeleteObject(handle);
-                }
+                CreateRoundRect();   
             }
         }
     }
