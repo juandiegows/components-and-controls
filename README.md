@@ -56,3 +56,6 @@ Puedes hacer el control herede de **Panel** para que tengo las funciones de un p
 Este componente le da el poder al cualquier control que poderse mover cuando el mouse esta encima y sostenido con un clic derecho, si el control esta dentro de un contenedor
 entonces este se puede mover dentro de ese contenedor.
 
+![image](https://user-images.githubusercontent.com/65135568/117233311-7f9dd480-ade8-11eb-9e40-418ba5e9d50e.png)
+
+
