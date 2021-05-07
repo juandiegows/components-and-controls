@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Windows.Forms;
 
@@ -16,20 +17,30 @@ namespace View.Components
         public static extern bool ReleaseCapture();
 
         private Control _Control;
-       public Control TargetControl
+
+       
+        public Control TargetControl
         {
             get { return _Control; }
             set
             {
                 _Control = value;
-
+                
                 _Control.MouseDown += (object sender, MouseEventArgs e) => {
 
-                            ReleaseCapture();
-                            SendMessage(_Control.Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);           
+                    MoveControl();   
                     
                 };
 
+            }
+        }
+
+        private void MoveControl()
+        {
+            if (_Control != null)
+            {
+                ReleaseCapture();
+                SendMessage(_Control.Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
             }
         }
 
